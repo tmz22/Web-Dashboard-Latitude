@@ -1,4 +1,4 @@
-# Web Design Home - Web Visualization Dashboard (Latitude)
+# Web Design - Web Visualization Dashboard (Latitude)
 
 ## Background
 
