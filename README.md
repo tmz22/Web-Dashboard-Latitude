@@ -1,4 +1,4 @@
-# Web Design Homework - Web Visualization Dashboard (Latitude)
+# Web Design Home - Web Visualization Dashboard (Latitude)
 
 ## Background
 
